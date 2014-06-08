@@ -14,6 +14,7 @@ doc.css("div[data-type='To-Go']").each do |div|
   
   # if the class is set to available, sound the alarms
   elsif div['data-availablity'] == "available"
+
     puts "Looks like Zombie Dust is available!"
 
     # send mail, tweet, sms...
