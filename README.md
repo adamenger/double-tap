@@ -1,6 +1,6 @@
 # Double Tap - Is Zombie Dust available?
 
-[http://www.3floyds.com/beer/zombie-dust/](Zombie Dust) can be pretty hard to find. Run this script to know if it's available or not.
+[Zombie Dust](http://www.3floyds.com/beer/zombie-dust/) can be pretty hard to find. Run this script to know if it's available or not.
 
 Rule #2. Make sure the Zombie is dead...or alive and ready to drink.
 
